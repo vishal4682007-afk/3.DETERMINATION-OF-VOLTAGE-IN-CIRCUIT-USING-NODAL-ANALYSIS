@@ -5,20 +5,23 @@
 To determine the voltage in the circuit using nodal analysis both theoretically and practically for a given DC circuit.
 
 **APPARATUS REQUIRED:**
+S.NO APPARATUS                    SPECIFICATION QUANTITY
 
-1.	Regulated Power supply ( RPS)	(0-30 V)	1
+1.	Regulated Power supply ( RPS)	  (0-30 V)       	1
 
-2.	Multimeter	---	1
+2.	Multimeter	                      ---	           1
 
-3.	Resistors	470Ω,330Ω	3,2
+3.	Resistors                     	470Ω,330Ω	      3,2
 
-4.	Bread board	---	1
+4.	Bread board	                     ---	           1
 
 **THEORY:**
 
 In electric circuits analysis, nodal analysis, node-voltage analysis, or the branch current method is a method of determining the voltage (potential difference) between "nodes" (points where elements or branches connect) in an electrical circuit in terms of the branch currents.
 
 **Circuit diagram**
+<img width="1028" height="663" alt="Screenshot 2025-10-23 101049" src="https://github.com/user-attachments/assets/6fc6ef76-786c-4961-bd07-a30994dc49b2" />
+
 
 
  
@@ -38,12 +41,14 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **RESULT:**
 
-Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 	V supply are:
+Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 	2 V supply are:
 
-a)	The voltage V1 is	V.
+a)	The voltage V1 is	0.66 V.
 
-b)	The voltage V2 is	V.
+b)	The voltage V2 is	0.27 V.
 
-c)	The voltage V3 is	V.
+c)	The voltage V3 is	0.39 V.
+**MARK SPLIT UP:**
+<img width="1136" height="774" alt="Screenshot 2025-10-23 101125" src="https://github.com/user-attachments/assets/73db09fa-e4d8-407e-99cc-f81b579f9240" />
 
 
